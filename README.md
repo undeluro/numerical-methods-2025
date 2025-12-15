@@ -16,10 +16,10 @@ This repository contains notebooks for the Numerical Methods course: labs (lab1‚
   - [lab3-Procesy_Iteracyjne-Student.ipynb](lab3-Procesy_Iteracyjne-Student.ipynb)
   - [lab4-student.ipynb](lab4-student.ipynb)
   - [lab5-Rozk≈Çad QR, Interpolacja.ipynb](lab5-Rozk%C5%82ad%20QR,%20Interpolacja.ipynb)
-  - [lab8-SVD.ipynb](lab8-SVD.ipynb)
-  - [lab9-Optymalizacja.ipynb](lab9-Optymalizacja.ipynb)
   - [lab6-Aproximation/lab6-Aproksymacja liniowa.ipynb](lab6-Aproximation/lab6-Aproksymacja%20liniowa.ipynb)
   - [lab7-Nonlinear aproximation/lab7-Nonlinear aproximation.ipynb](lab7-Nonlinear%20aproximation/lab7-Nonlinear%20aproximation.ipynb)
+  - [lab8-SVD.ipynb](lab8-SVD.ipynb)
+  - [lab9-Optymalizacja.ipynb](lab9-Optymalizacja.ipynb)
 
 - Assignments
   - [Assignment 1/Zadanie_domowe_1.ipynb](Assignment%201/Zadanie_domowe_1.ipynb)
